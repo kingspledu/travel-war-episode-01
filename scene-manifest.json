@@ -2195,7 +2195,7 @@
     ],
     "description": "맨손이라는 보고",
     "alt": "맨손이라는 보고 — 001화 삽화",
-    "prompt_description": "Young soldier takes a step back and uses radio on his RIGHT shoulder, dark-wood buttstock rifle broken and lowered, fearful astonishment, no text.",
+    "prompt_description": "Young soldier holds the lowered broken-stock rifle in his anatomical right hand and a handheld radio at his mouth in his anatomical left hand; distinct opposite shoulder and elbow chains visible.",
     "location_id": "pillar",
     "character_ids": [
       "young-soldier"
@@ -2205,12 +2205,17 @@
     "grid": "3x3",
     "status": "integrated",
     "web_asset_path": "assets/sc079.webp",
-    "width": 412,
-    "height": 412,
+    "width": 1254,
+    "height": 1254,
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "ef74c89554f08f38db65a7a73830ed17b7ec7b19508106dc9a971466f1927f8a",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 3,
+      "source_sha256": "7b39eda0ef9248348641d6dabbb22c0bf606e99713c9940a0de2b8cb24eae501",
+      "review": "Two distinct opposite shoulders, right arm lowered with rifle, left elbow and forearm raised with radio; inspected generated single-scene replacement."
+    }
   },
   {
     "id": "sc080",
