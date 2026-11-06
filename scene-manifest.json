@@ -741,7 +741,14 @@
     "batch_id": "batch-04",
     "tile": 1,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc028.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc029",
@@ -758,7 +765,14 @@
     "batch_id": "batch-04",
     "tile": 2,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc029.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc030",
@@ -778,7 +792,14 @@
     "batch_id": "batch-04",
     "tile": 3,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc030.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc031",
@@ -795,7 +816,14 @@
     "batch_id": "batch-04",
     "tile": 4,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc031.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc032",
@@ -812,7 +840,14 @@
     "batch_id": "batch-04",
     "tile": 5,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc032.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc033",
@@ -832,7 +867,14 @@
     "batch_id": "batch-04",
     "tile": 6,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc033.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc034",
@@ -852,7 +894,14 @@
     "batch_id": "batch-04",
     "tile": 7,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc034.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc035",
@@ -873,7 +922,14 @@
     "batch_id": "batch-04",
     "tile": 8,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc035.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc036",
@@ -894,7 +950,14 @@
     "batch_id": "batch-04",
     "tile": 9,
     "grid": "3x3",
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc036.webp",
+    "width": 412,
+    "height": 412,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "fa75c7cad0b9dac3456f4d00ac8fcdfd85fd843e81534829d1b83cf28a1a9fe7",
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
   },
   {
     "id": "sc037",

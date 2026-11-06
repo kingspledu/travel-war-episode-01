@@ -55,5 +55,24 @@
     "height": 1254,
     "integrated_at": "2026-11-06T04:02:57.175777+00:00",
     "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
+  },
+  "batch-04": {
+    "grid": "3x3",
+    "scene_ids": [
+      "sc028",
+      "sc029",
+      "sc030",
+      "sc031",
+      "sc032",
+      "sc033",
+      "sc034",
+      "sc035",
+      "sc036"
+    ],
+    "prompt": "Use case: illustration-story. Highest available native resolution, maximum genuine detail. ONE square canvas EXACT 3x3 grid of NINE equal square narrative illustrations. Straight thin WHITE gutters at exactly 1/3 and 2/3 width and height. Row-major nine distinct moments. Mature Korean family thriller WEBTOON, clean ink, subtle digital cel shading, expressive natural adult/child proportions, warm limestone sun becoming smoky cool shadows, not photorealism or chibi. NO lettering subtitles speech bubbles logos watermark. Only show cast required in each panel. NO blood gore injuries or graphic child distress. Child stays physically UNHARMED throughout; emphasis is father shielding him. No national flags, real-country insignia, villains from another story, magical aura or tactical diagram. References: first sheet is identity/costume ONLY, second is supporting-cast design ONLY, third is location geometry ONLY. Never copy reference layouts into story. DOHYEON: Korean father apparent 38, 181cm sturdy broad shoulders, wide oval face, strong straight brows, gentle dark brown eyes, short neat black side part, no beard/glasses. LIGHT SAND BEIGE linen overshirt, DEEP TEAL tee, warm GRAY chinos, offwhite sneakers, dark watch on LEFT wrist. Bare normal hands. SUNGJUN: Korean boy apparent9,132cm, round face, large brown eyes, short messy BLACK bowl crop, MUSTARD YELLOW tee NO logos, NAVY shorts, white socks, RED sneakers. Small natural child proportions. Fixed square geography: round low FOUNTAIN center; municipal hall NORTH; clock tower NORTHWEST; cafe WEST; bread stall and wood BENCH SOUTHWEST; thick square limestone PILLAR southeast of fountain; EAST alley 40m away; vehicle entry SOUTH. Noon throughout. Explosion at noon; no injuries; phone still intact until dropped in batch5.\nPANEL 1 R1C1: Stone clock tower northwest of municipal hall against clear midday sky, familiar central fountain below, no damage yet. CAST: no people. LOCATION: 청사 북서쪽의 독립 석조 종탑, 정상 종과 돌 외관. 시계 숫자·사운드 자막을 억지로 그리지 않음.\nPANEL 2 R1C2: Close swinging bronze bell in clock tower at noon, no magical notes, no letters. CAST: no people. LOCATION: 청사 북서쪽의 독립 석조 종탑, 정상 종과 돌 외관. 시계 숫자·사운드 자막을 억지로 그리지 않음.\nPANEL 3 R1C3: Dohyeon suddenly turns head north on bench, smile vanishes as unexpected dry crack interrupts bell; boy notices him. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 4 R2C1: Wide north municipal hall with first black smoke rising above roof, tower intact northwest, no injured people. CAST: no people. LOCATION: 옅은 크림색 석조 공공청사, 직사각 창. 폭발·깨진 유리·검은 연기만, 시신·피해자 클로즈업 없음.\nPANEL 5 R2C2: Municipal hall windows shatter outward in distance, pigeons take flight from fountain ledge, controlled cinematic explosion, no bodies or gore. CAST: no people. LOCATION: 옅은 크림색 석조 공공청사, 직사각 창. 폭발·깨진 유리·검은 연기만, 시신·피해자 클로즈업 없음.\nPANEL 6 R2C3: Sungjun flinches with startled shoulders and looks to father, phone still intact in child's hand, no injuries. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 7 R3C1: Dohyeon immediately embraces child protectively on bench, boy face against chest, no blood. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 8 R3C2: Panicked civilians rush across square, overturned café chairs and shifted tables on west side, father holds child clear of crowd, no graphic injuries. CAST: dohyeon, sungjun, crowd. LOCATION: 가상 해외 소도시의 옅은 석회석 포장 광장. 중심 낮은 원형 분수, 북쪽 청사, 청사 북서쪽 시계탑, 서쪽 카페, 남서쪽 노점과 벤치, 분수 동남쪽 사각 기둥, 기둥에서 동쪽 골목 약 40m. 실제 국가 표식 없음.\nPANEL 9 R3C3: Dohyeon carries boy through running crowd to sheltered inward side of thick square limestone pillar east/southeast of fountain, child arms around neck. CAST: dohyeon, sungjun, crowd. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\n",
+    "width": 1254,
+    "height": 1254,
+    "integrated_at": "2026-11-06T04:13:40.114147+00:00",
+    "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
   }
 }
