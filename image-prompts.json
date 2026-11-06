@@ -17,5 +17,24 @@
     "height": 1254,
     "integrated_at": "2026-11-06T03:54:36.858366+00:00",
     "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
+  },
+  "batch-02": {
+    "grid": "3x3",
+    "scene_ids": [
+      "sc010",
+      "sc011",
+      "sc012",
+      "sc013",
+      "sc014",
+      "sc015",
+      "sc016",
+      "sc017",
+      "sc018"
+    ],
+    "prompt": "Use case: illustration-story. Highest available native resolution, maximum genuine detail. ONE square canvas EXACT 3x3 grid of NINE equal square narrative illustrations. Straight thin WHITE gutters at exactly 1/3 and 2/3 width and height. Row-major nine distinct moments. Mature Korean family thriller WEBTOON, clean ink, subtle digital cel shading, expressive natural adult/child proportions, warm limestone sun becoming smoky cool shadows, not photorealism or chibi. NO lettering subtitles speech bubbles logos watermark. Only show cast required in each panel. NO blood gore injuries or graphic child distress. Child stays physically UNHARMED throughout; emphasis is father shielding him. No national flags, real-country insignia, villains from another story, magical aura or tactical diagram. References: first sheet is identity/costume ONLY, second is supporting-cast design ONLY, third is location geometry ONLY. Never copy reference layouts into story. DOHYEON: Korean father apparent 38, 181cm sturdy broad shoulders, wide oval face, strong straight brows, gentle dark brown eyes, short neat black side part, no beard/glasses. LIGHT SAND BEIGE linen overshirt, DEEP TEAL tee, warm GRAY chinos, offwhite sneakers, dark watch on LEFT wrist. Bare normal hands. SUNGJUN: Korean boy apparent9,132cm, round face, large brown eyes, short messy BLACK bowl crop, MUSTARD YELLOW tee NO logos, NAVY shorts, white socks, RED sneakers. Small natural child proportions. Vendor only if requested: 50ish warm olive skin, broad smile and bushy dark MUSTACHE, short curly brown hair, white shirt BROWN apron. Fixed square geography: round low FOUNTAIN center; municipal hall NORTH; clock tower NORTHWEST; cafe WEST; bread stall and wood BENCH SOUTHWEST; thick square limestone PILLAR southeast of fountain; EAST alley 40m away; vehicle entry SOUTH. Noon throughout. Peaceful family travel, BEFORE explosion, NO smoke, soldiers, fear, broken phone or damage.\nPANEL 1 R1C1: At bread stall, exactly TWO honey glazed oval buns are bought by father and son, friendly mustached vendor behind counter. CAST: dohyeon, sungjun, vendor. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 2 R1C2: Close broad smiling mustached vendor warmly greets father, white shirt and brown apron, no lettering or speech bubbles. CAST: vendor. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 3 R1C3: Vendor energetically shakes Dohyeon's relaxed bare right hand; father deliberately yields to motion rather than squeezing, son watches amused. CAST: dohyeon, vendor, sungjun. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 4 R2C1: Sungjun laughs holding a honey bun, father and vendor handshake soft in background; boy mustard tee/navy shorts/red shoes. CAST: sungjun, dohyeon, vendor. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 5 R2C2: Dohyeon bows slightly as friendly vendor releases handshake, warm midday light, no crowd panic. CAST: dohyeon, vendor. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 6 R2C3: Sungjun bites end of one honey glazed bun, sticky fingers, joyful everyday tourist moment, no spills or injury. CAST: sungjun. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 7 R3C1: Close Dohyeon gently wipes honey from child's small fingers with white napkin, son keeps holding bun in other hand. CAST: dohyeon, sungjun. LOCATION: 남서쪽 작은 나무 노점, 갈색 앞치마 주인, 진열된 타원 꿀빵과 흰 냅킨, 간판 글자는 생성하지 않음.\nPANEL 8 R3C2: Peaceful wide plaza with fountain, western café and southwestern bread stall, family rests close by, pigeons and ordinary passersby. CAST: dohyeon, sungjun. LOCATION: 가상 해외 소도시의 옅은 석회석 포장 광장. 중심 낮은 원형 분수, 북쪽 청사, 청사 북서쪽 시계탑, 서쪽 카페, 남서쪽 노점과 벤치, 분수 동남쪽 사각 기둥, 기둥에서 동쪽 골목 약 40m. 실제 국가 표식 없음.\nPANEL 9 R3C3: Close Dohyeon quietly breathes in then slowly out, suppressing inner strength; son eating bread beside him, no aura or magic effects. CAST: dohyeon, sungjun. LOCATION: 가상 해외 소도시의 옅은 석회석 포장 광장. 중심 낮은 원형 분수, 북쪽 청사, 청사 북서쪽 시계탑, 서쪽 카페, 남서쪽 노점과 벤치, 분수 동남쪽 사각 기둥, 기둥에서 동쪽 골목 약 40m. 실제 국가 표식 없음.\n",
+    "width": 1254,
+    "height": 1254,
+    "integrated_at": "2026-11-06T03:57:47.561499+00:00",
+    "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
   }
 }
