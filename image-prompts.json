@@ -1,1 +1,21 @@
-{}
+{
+  "batch-01": {
+    "grid": "3x3",
+    "scene_ids": [
+      "sc001",
+      "sc002",
+      "sc003",
+      "sc004",
+      "sc005",
+      "sc006",
+      "sc007",
+      "sc008",
+      "sc009"
+    ],
+    "prompt": "Use case: illustration-story. Highest available native resolution, maximum genuine detail. ONE square canvas EXACT 3x3 grid of NINE equal square narrative illustrations. Straight thin WHITE gutters at exactly 1/3 and 2/3 width and height. Row-major nine distinct moments. Mature Korean family thriller WEBTOON, clean ink, subtle digital cel shading, expressive natural adult/child proportions, warm limestone sun becoming smoky cool shadows, not photorealism or chibi. NO lettering subtitles speech bubbles logos watermark. Only show cast required in each panel. NO blood gore injuries or graphic child distress. Child stays physically UNHARMED throughout; emphasis is father shielding him. No national flags, real-country insignia, villains from another story, magical aura or tactical diagram. References: first sheet is identity/costume ONLY, second is supporting-cast design ONLY, third is location geometry ONLY. Never copy reference layouts into story. DOHYEON: Korean father apparent 38, 181cm sturdy broad shoulders, wide oval face, strong straight brows, gentle dark brown eyes, short neat black side part, no beard/glasses. LIGHT SAND BEIGE linen overshirt, DEEP TEAL tee, warm GRAY chinos, offwhite sneakers, dark watch on LEFT wrist. Bare normal hands. SUNGJUN: Korean boy apparent9,132cm, round face, large brown eyes, short messy BLACK bowl crop, MUSTARD YELLOW tee NO logos, NAVY shorts, white socks, RED sneakers. Small natural child proportions. Fixed square geography: round low FOUNTAIN center; municipal hall NORTH; clock tower NORTHWEST; cafe WEST; bread stall and wood BENCH SOUTHWEST; thick square limestone PILLAR southeast of fountain; EAST alley 40m away; vehicle entry SOUTH. Noon throughout. Peaceful family travel, BEFORE explosion, NO smoke, soldiers, fear, broken phone or damage.\nPANEL 1 R1C1: Sungjun lifts one coral orange rubber ball above his head in sunny foreign plaza, playful confident expression, father seated on nearby bench. CAST: dohyeon, sungjun. LOCATION: 가상 해외 소도시의 옅은 석회석 포장 광장. 중심 낮은 원형 분수, 북쪽 청사, 청사 북서쪽 시계탑, 서쪽 카페, 남서쪽 노점과 벤치, 분수 동남쪽 사각 기둥, 기둥에서 동쪽 골목 약 40m. 실제 국가 표식 없음.\nPANEL 2 R1C2: Close Dohyeon carefully sets thin white paper cup on wooden bench, supports fragile bottom with fingertips, normal relaxed tourist clothes. CAST: dohyeon. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 3 R1C3: One coral rubber ball flies through sunny air from boy toward father, fountain background, no weapons or smoke. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 4 R2C1: Close father's observant brown eyes and nearby flying ball with abstract tiny manufacturing marks, extraordinary acuity implied without glow. CAST: dohyeon. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 5 R2C2: Dohyeon belatedly twists as rubber ball passes shoulder and rolls behind bench, deliberately clumsy warm expression. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 6 R2C3: Sungjun laughs and points at father, sunny natural face, father smiles sheepishly, one ball on paving behind bench. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 7 R3C1: Dohyeon bends to retrieve the coral ball behind wooden bench, smiling privately while child laughs beyond. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 8 R3C2: Dohyeon catches one coral ball with both bare hands at chest height, child watches pleased, peaceful square. CAST: dohyeon, sungjun. LOCATION: 가상 해외 소도시의 옅은 석회석 포장 광장. 중심 낮은 원형 분수, 북쪽 청사, 청사 북서쪽 시계탑, 서쪽 카페, 남서쪽 노점과 벤치, 분수 동남쪽 사각 기둥, 기둥에서 동쪽 골목 약 40m. 실제 국가 표식 없음.\nPANEL 9 R3C3: Father and son share a joke; Sungjun shrugs proudly like a little teacher, father holds one coral ball low, no bread yet. CAST: dohyeon, sungjun. LOCATION: 가상 해외 소도시의 옅은 석회석 포장 광장. 중심 낮은 원형 분수, 북쪽 청사, 청사 북서쪽 시계탑, 서쪽 카페, 남서쪽 노점과 벤치, 분수 동남쪽 사각 기둥, 기둥에서 동쪽 골목 약 40m. 실제 국가 표식 없음.\n",
+    "width": 1254,
+    "height": 1254,
+    "integrated_at": "2026-11-06T03:54:36.858366+00:00",
+    "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
+  }
+}
