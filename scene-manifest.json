@@ -536,7 +536,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e7947bdaf7c810b7cd13ba50850bdff8ec07c360e44aa47b368afd3cf08ec5ac",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "64aff494802b8fd701ac1e74d1537273d458dd63996607f8a47fbc30c1c3bd84",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:42.232273+00:00"
+    }
   },
   {
     "id": "sc021",
@@ -563,7 +569,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e7947bdaf7c810b7cd13ba50850bdff8ec07c360e44aa47b368afd3cf08ec5ac",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "64aff494802b8fd701ac1e74d1537273d458dd63996607f8a47fbc30c1c3bd84",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:42.331655+00:00"
+    }
   },
   {
     "id": "sc022",
@@ -590,7 +602,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e7947bdaf7c810b7cd13ba50850bdff8ec07c360e44aa47b368afd3cf08ec5ac",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "64aff494802b8fd701ac1e74d1537273d458dd63996607f8a47fbc30c1c3bd84",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:42.435433+00:00"
+    }
   },
   {
     "id": "sc023",
@@ -616,7 +634,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e7947bdaf7c810b7cd13ba50850bdff8ec07c360e44aa47b368afd3cf08ec5ac",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "64aff494802b8fd701ac1e74d1537273d458dd63996607f8a47fbc30c1c3bd84",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:42.530442+00:00"
+    }
   },
   {
     "id": "sc024",
@@ -697,7 +721,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "e7947bdaf7c810b7cd13ba50850bdff8ec07c360e44aa47b368afd3cf08ec5ac",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "64aff494802b8fd701ac1e74d1537273d458dd63996607f8a47fbc30c1c3bd84",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:42.627358+00:00"
+    }
   },
   {
     "id": "sc027",
@@ -1011,7 +1041,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "dc00b63575dcc58b97266fb2f687e877654631ea8dc2761de6e7d8415c9b3c9c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "a63ee925884d183f87ce591a65410e958d1954098486566cd9ee094488a260a7",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:42:47.795400+00:00"
+    }
   },
   {
     "id": "sc039",
@@ -1065,7 +1101,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "dc00b63575dcc58b97266fb2f687e877654631ea8dc2761de6e7d8415c9b3c9c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "a63ee925884d183f87ce591a65410e958d1954098486566cd9ee094488a260a7",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:42:47.958906+00:00"
+    }
   },
   {
     "id": "sc041",
@@ -1092,7 +1134,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "dc00b63575dcc58b97266fb2f687e877654631ea8dc2761de6e7d8415c9b3c9c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "a63ee925884d183f87ce591a65410e958d1954098486566cd9ee094488a260a7",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:42:48.106289+00:00"
+    }
   },
   {
     "id": "sc042",
@@ -1146,7 +1194,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "dc00b63575dcc58b97266fb2f687e877654631ea8dc2761de6e7d8415c9b3c9c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "a63ee925884d183f87ce591a65410e958d1954098486566cd9ee094488a260a7",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:42:48.267683+00:00"
+    }
   },
   {
     "id": "sc044",
@@ -1197,7 +1251,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "dc00b63575dcc58b97266fb2f687e877654631ea8dc2761de6e7d8415c9b3c9c",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "a63ee925884d183f87ce591a65410e958d1954098486566cd9ee094488a260a7",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:42:48.373355+00:00"
+    }
   },
   {
     "id": "sc046",
@@ -1709,7 +1769,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.165909+00:00"
+    }
   },
   {
     "id": "sc065",
@@ -1737,7 +1803,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.274689+00:00"
+    }
   },
   {
     "id": "sc066",
@@ -1791,7 +1863,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.382285+00:00"
+    }
   },
   {
     "id": "sc068",
@@ -1843,7 +1921,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.491532+00:00"
+    }
   },
   {
     "id": "sc070",
@@ -1870,7 +1954,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.604632+00:00"
+    }
   },
   {
     "id": "sc071",
@@ -1896,7 +1986,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.715538+00:00"
+    }
   },
   {
     "id": "sc072",
@@ -1923,7 +2019,13 @@
     "grid_width": 1254,
     "grid_height": 1254,
     "grid_sha256": "87a08daeb3a3ac54af2648cfafd780402ff26eb4ee7d558607af447fc1061ed0",
-    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles."
+    "review_note": "Grid, identities, principal story action and source chronology visually inspected; interpretation bounded by character and environment bibles.",
+    "anatomy_revision": {
+      "version": 2,
+      "source_sha256": "7532387720cff065e6a6e4edd2180a664cc301a7b718c5611612ca6999cfc587",
+      "review": "Visually reviewed corrected shoulder attachment, wrist continuity and hand anatomy; targeted tile replacement",
+      "date": "2026-11-06T04:41:41.810605+00:00"
+    }
   },
   {
     "id": "sc073",

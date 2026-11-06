@@ -1,13 +1,13 @@
 'use strict';
 const PREFIX='story-reader-travel-war-episode-01-';
-const CACHE=PREFIX+'e648ffbc4a82';
+const CACHE=PREFIX+'2705176d9aab';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=e648ffbc4a82','./app.js?v=e648ffbc4a82','./pwa.js?v=e648ffbc4a82','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./player.js?v=2705176d9aab','./audio-manifest.json?v=2705176d9aab','./','./style.css?v=2705176d9aab','./app.js?v=2705176d9aab','./pwa.js?v=2705176d9aab','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
  const request=event.request,url=new URL(request.url);
- if(request.method!=='GET'||!url.href.startsWith(ROOT))return;
+ if(request.method!=='GET'||!url.href.startsWith(ROOT)||request.headers.has('range'))return;
  if(request.mode==='navigate'){
   event.respondWith(fetch(request).then(async response=>{if(response.ok){const cache=await caches.open(CACHE);await cache.put(ROOT,response.clone())}return response}).catch(async()=>{const cache=await caches.open(CACHE);return await cache.match(ROOT)||Response.error()}));return;
  }
