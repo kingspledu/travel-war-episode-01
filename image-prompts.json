@@ -56,6 +56,25 @@
     "integrated_at": "2026-11-06T04:02:57.175777+00:00",
     "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
   },
+  "batch-05": {
+    "grid": "3x3",
+    "scene_ids": [
+      "sc037",
+      "sc038",
+      "sc039",
+      "sc040",
+      "sc041",
+      "sc042",
+      "sc043",
+      "sc044",
+      "sc045"
+    ],
+    "prompt": "Use case: illustration-story. Highest available native resolution, maximum genuine detail. ONE square canvas EXACT 3x3 grid of NINE equal square narrative illustrations. Straight thin WHITE gutters at exactly 1/3 and 2/3 width and height. Row-major nine distinct moments. Mature Korean family thriller WEBTOON, clean ink, subtle digital cel shading, expressive natural adult/child proportions, warm limestone sun becoming smoky cool shadows, not photorealism or chibi. NO lettering subtitles speech bubbles logos watermark. Only show cast required in each panel. NO blood gore injuries or graphic child distress. Child stays physically UNHARMED throughout; emphasis is father shielding him. No national flags, real-country insignia, villains from another story, magical aura or tactical diagram. References: first sheet is identity/costume ONLY, second is supporting-cast design ONLY, third is location geometry ONLY. Never copy reference layouts into story. DOHYEON: Korean father apparent 38, 181cm sturdy broad shoulders, wide oval face, strong straight brows, gentle dark brown eyes, short neat black side part, no beard/glasses. LIGHT SAND BEIGE linen overshirt, DEEP TEAL tee, warm GRAY chinos, offwhite sneakers, dark watch on LEFT wrist. Bare normal hands. SUNGJUN: Korean boy apparent9,132cm, round face, large brown eyes, short messy BLACK bowl crop, MUSTARD YELLOW tee NO logos, NAVY shorts, white socks, RED sneakers. Small natural child proportions. Fixed square geography: round low FOUNTAIN center; municipal hall NORTH; clock tower NORTHWEST; cafe WEST; bread stall and wood BENCH SOUTHWEST; thick square limestone PILLAR southeast of fountain; EAST alley 40m away; vehicle entry SOUTH. Noon throughout. Behind pillar; boy closes eyes and clings to father, phone drops in panel7 and is cracked on floor after panel8. No soldier directly beside family yet.\nPANEL 1 R1C1: At shelter side of limestone pillar, father lowers face to boy's eye level and speaks calmly, smoke far north, phone in boy's hand. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 2 R1C2: Close frightened Sungjun looking up, father steady hand on his back, no weapon or soldier beside them yet. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 3 R1C3: Father gestures for boy to close eyes and hold his waist, protective low posture, same pillar joints. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 4 R2C1: Father bends knees to set child's red sneakers onto pale paving while boy refuses to release embrace. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 5 R2C2: Father speaks softly with composure while Sungjun grips his waist; child's eyes begin closing, no dramatic action outside shelter. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 6 R2C3: Close father reassures frightened eyes-closed boy with warm firm expression and gentle hand on head, emotionally restrained. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 7 R3C1: Plain black smartphone falls from child's small hand toward stone paving beside pillar as he wraps BOTH arms around father's waist. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 8 R3C2: Close black smartphone lying screen-up on pale stone floor at pillar base, screen now cracked; no hand retrieving it, no blood. CAST: no people. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\nPANEL 9 R3C3: Sungjun eyes closed counting into father's waist; Dohyeon peers over child's head around shelter pillar edge toward square, phone stays on floor. CAST: dohyeon, sungjun. LOCATION: 두꺼운 사각 석회석 기둥, 수평 석재 이음, 짧은 회랑 일부. 안쪽은 분수 쪽 보호면. 도현 손높이에 미세 돌가루 흔적, 바닥 깨진 검정 폰은 줍지 않음. 기둥·분수·동쪽 골목 축 유지.\n",
+    "width": 1254,
+    "height": 1254,
+    "integrated_at": "2026-11-06T04:08:13.191270+00:00",
+    "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
+  },
   "batch-04": {
     "grid": "3x3",
     "scene_ids": [
