@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-travel-war-episode-01-';
-const CACHE=PREFIX+'0c28f902cc96';
+const CACHE=PREFIX+'e648ffbc4a82';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=0c28f902cc96','./app.js?v=0c28f902cc96','./pwa.js?v=0c28f902cc96','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./','./style.css?v=e648ffbc4a82','./app.js?v=e648ffbc4a82','./pwa.js?v=e648ffbc4a82','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{
