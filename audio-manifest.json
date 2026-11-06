@@ -9247,7 +9247,65 @@
       ]
     }
   ],
-  "music": [],
+  "music": [
+    {
+      "id": "music-warm",
+      "chapters": [
+        "chapter-001",
+        "chapter-002",
+        "chapter-003"
+      ],
+      "prompt": "Instrumental cinematic family travel underscore, warm nylon guitar, light felt piano, soft hand percussion, 76 bpm, sunny public square, affectionate father and son, gentle tenderness with a tiny unresolved low note. No lyrics, no voices, no famous melody. Quiet dialogue-friendly dynamics.",
+      "status": "provided",
+      "audio_path": "assets/audio/music-warm-user-v1.mp3",
+      "source_filename": "Before_the_Tea_Cools.mp3",
+      "duration_seconds": 60.682,
+      "source_sha256": "6123776ee65839d7feef32aecd28ea48d64959526d4dcbce2159c5cf12fc8f88",
+      "provenance": "User-provided music; mapped as explicitly supplied by user"
+    },
+    {
+      "id": "music-rupture",
+      "chapters": [
+        "chapter-004",
+        "chapter-005"
+      ],
+      "prompt": "Instrumental dramatic transition cue: pleasant acoustic motif breaks into suspended muted low strings, sparse pulse, distant ominous textures, controlled fear and parental protection. No lyrics, no voices, no explosive loudness, leave space for narration.",
+      "status": "provided",
+      "audio_path": "assets/audio/music-rupture-user-v1.mp3",
+      "source_filename": "Patterns_in_Stone.mp3",
+      "duration_seconds": 62.511,
+      "source_sha256": "d15dbc92d3c6dfad985799fd7e3ba618cd47353d7bf045fbbf98be8f8c790658",
+      "provenance": "User-provided music; mapped as explicitly supplied by user"
+    },
+    {
+      "id": "music-standoff",
+      "chapters": [
+        "chapter-006",
+        "chapter-007",
+        "chapter-008"
+      ],
+      "prompt": "Instrumental restrained psychological thriller underscore, quiet cello ostinato, low piano, tense breathlike percussion, 64 bpm, stalled time and protective restraint, no heroic march, no triumphant violence, no lyrics or voices. Dialogue-friendly.",
+      "status": "provided",
+      "audio_path": "assets/audio/music-standoff-user-v1.mp3",
+      "source_filename": "Sunlight_on_Stone.mp3",
+      "duration_seconds": 62.668,
+      "source_sha256": "0d2f22e1f0b8d43b4f81a042210a0f43e4fbb09e6eef271332d467c1b8fa9cb4",
+      "provenance": "User-provided music; mapped as explicitly supplied by user"
+    },
+    {
+      "id": "music-secret",
+      "chapters": [
+        "chapter-009"
+      ],
+      "prompt": "Instrumental unresolved ending cue, tiny warm family piano motif against sparse cold strings, quiet awe and dread, slow 58 bpm, no grand resolution, no lyrics or voices, fade to unresolved hush.",
+      "status": "provided",
+      "audio_path": "assets/audio/music-secret-user-v1.mp3",
+      "source_filename": "Afternoons_by_the_Fountain.mp3",
+      "duration_seconds": 61.44,
+      "source_sha256": "4cfca02df98d63d3e438f7c3f1830f9f6a0bbe6b5bc841f176d3e18d72f6c630",
+      "provenance": "User-provided music; mapped as explicitly supplied by user"
+    }
+  ],
   "effects": [],
   "ready_sentences": 191
 }
