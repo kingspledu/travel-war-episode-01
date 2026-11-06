@@ -36,5 +36,24 @@
     "height": 1254,
     "integrated_at": "2026-11-06T03:57:47.561499+00:00",
     "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
+  },
+  "batch-03": {
+    "grid": "3x3",
+    "scene_ids": [
+      "sc019",
+      "sc020",
+      "sc021",
+      "sc022",
+      "sc023",
+      "sc024",
+      "sc025",
+      "sc026",
+      "sc027"
+    ],
+    "prompt": "Use case: illustration-story. Highest available native resolution, maximum genuine detail. ONE square canvas EXACT 3x3 grid of NINE equal square narrative illustrations. Straight thin WHITE gutters at exactly 1/3 and 2/3 width and height. Row-major nine distinct moments. Mature Korean family thriller WEBTOON, clean ink, subtle digital cel shading, expressive natural adult/child proportions, warm limestone sun becoming smoky cool shadows, not photorealism or chibi. NO lettering subtitles speech bubbles logos watermark. Only show cast required in each panel. NO blood gore injuries or graphic child distress. Child stays physically UNHARMED throughout; emphasis is father shielding him. No national flags, real-country insignia, villains from another story, magical aura or tactical diagram. References: first sheet is identity/costume ONLY, second is supporting-cast design ONLY, third is location geometry ONLY. Never copy reference layouts into story. DOHYEON: Korean father apparent 38, 181cm sturdy broad shoulders, wide oval face, strong straight brows, gentle dark brown eyes, short neat black side part, no beard/glasses. LIGHT SAND BEIGE linen overshirt, DEEP TEAL tee, warm GRAY chinos, offwhite sneakers, dark watch on LEFT wrist. Bare normal hands. SUNGJUN: Korean boy apparent9,132cm, round face, large brown eyes, short messy BLACK bowl crop, MUSTARD YELLOW tee NO logos, NAVY shorts, white socks, RED sneakers. Small natural child proportions. Fixed square geography: round low FOUNTAIN center; municipal hall NORTH; clock tower NORTHWEST; cafe WEST; bread stall and wood BENCH SOUTHWEST; thick square limestone PILLAR southeast of fountain; EAST alley 40m away; vehicle entry SOUTH. Noon throughout. Peaceful family travel, BEFORE explosion, NO smoke, soldiers, fear, broken phone or damage.\nPANEL 1 R1C1: Sungjun asks for photo while holding bun, Dohyeon takes out plain black smartphone, fountain ahead. CAST: dohyeon, sungjun. LOCATION: 낮은 원형 석조 수반과 작은 중앙 물기둥, 팔 높이 이하 난간. 북서쪽 시계탑과 북쪽 청사 배경.\nPANEL 2 R1C2: Boy stands by same circular low stone fountain, bread hand lowered and other hand V-sign, father frames picture on phone. CAST: dohyeon, sungjun. LOCATION: 낮은 원형 석조 수반과 작은 중앙 물기둥, 팔 높이 이하 난간. 북서쪽 시계탑과 북쪽 청사 배경.\nPANEL 3 R1C3: After photo Sungjun runs back toward father asking for phone, red sneakers in sunlight, bread still in hand, no danger yet. CAST: dohyeon, sungjun. LOCATION: 낮은 원형 석조 수반과 작은 중앙 물기둥, 팔 높이 이하 난간. 북서쪽 시계탑과 북쪽 청사 배경.\nPANEL 4 R2C1: Father hands plain black phone to boy; boy looks eager and curious, fountain visible behind. CAST: dohyeon, sungjun. LOCATION: 낮은 원형 석조 수반과 작은 중앙 물기둥, 팔 높이 이하 난간. 북서쪽 시계탑과 북쪽 청사 배경.\nPANEL 5 R2C2: Close boy's fingers pinch-zoom photo on phone, screen shows his recognizable mustard-shirt portrait at fountain with honey near mouth, NO UI lettering. CAST: sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 6 R2C3: Dohyeon and Sungjun sit side by side on wooden bench southwest of fountain, child tilts smartphone to share photo. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 7 R3C1: Dohyeon watches son's happy photo, thoughtful gentle smile, mother's physical face not shown or invented. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 8 R3C2: Close father's normal bare hands relaxed carefully around fragile paper cup, son carefree beside him; do not invent past flashback. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\nPANEL 9 R3C3: Warm two-shot father and son content on bench looking toward fountain, noon trip before war, no luggage airplane or invented home scene. CAST: dohyeon, sungjun. LOCATION: 검은 금속 다리의 나무 판 벤치, 뒤쪽에 공 굴러갈 공간. 얇은 흰 종이컵. 분수·노점과 시선 연결.\n",
+    "width": 1254,
+    "height": 1254,
+    "integrated_at": "2026-11-06T04:02:57.175777+00:00",
+    "resolution_note": "Highest native resolution requested in prompt; built-in tool exposes no explicit size parameter; source pixels retained."
   }
 }
